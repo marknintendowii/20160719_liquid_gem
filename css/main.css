@@ -1,0 +1,181 @@
+body {
+	background-color: #eaeaea;
+	margin-top: 0px;
+ 	margin-right: 0px;
+ 	margin-bottom: 0px;
+ 	margin-left: 0px	
+}
+
+/*NAVIGATION*/
+nav {
+	padding: 30px;
+}
+
+nav ul {
+	float: right;
+}
+
+nav li {
+	display: inline-block;
+	padding: 30px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000;
+	font-family: 'Lato', sans-serif;
+}
+
+hr {
+	width: 97%;
+}
+
+/*TOP BODY TEXT*/
+.intro {
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	padding-top: 15px;
+}
+
+.intro span {
+	color: #EEAFB9;
+}
+
+/*SKYLINE IMAGE*/
+.skyline img {
+  display: block;
+  width: 97% !important;
+  height: auto !important;
+  margin: 0 auto;
+}
+
+.left {
+	float: left;
+	width: 45%;
+	padding: 20px;
+}
+
+.left h2 {
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	color: #EEAFB9;
+}
+
+.left p {
+	font-size: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.right {
+	float: right;
+	width: 45%;
+	padding: 20px;
+}
+
+.right h2 {
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	color: #EEAFB9;
+}
+
+.right p {
+	font-size: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.boxlist {
+	text-align: center;
+}
+
+.boxlist div {
+	display: inline;
+}
+
+.boxlist a {
+	text-decoration: none;
+	margin: 0 auto;
+}
+
+.boxlist img {
+	border-radius: 15px;
+	width: 15%;
+	text-align: center;
+	margin: 20px;
+	box-shadow: 2px 2px 5px #888888;
+}
+
+.thanks {
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	color: #EEAFB9;
+}
+
+footer {
+	background-color: #2d2d2d;
+	padding: 20px;
+	overflow: auto;
+}
+
+footer h1 {
+	font-family: 'Satisfy', cursive;
+	color: #EEAFB9;
+}
+
+footer button {
+	font-size: 14px;
+	padding: 0;
+	border: none;
+	background: none;
+	color: #fff;
+}
+
+form {
+	float: left;
+}
+
+form input {
+	display: block;
+	width: 280%;
+	background-color: #eaeaea;
+	padding: 5px;
+	font-size: 16px;
+}
+
+form textarea {
+	display: block;
+	width: 281%;
+	background-color: #eaeaea;
+	padding: 5px;
+	font-size: 16px;
+}
+
+footer div {
+	padding-top: 50px;
+	padding-right: 30px;
+}
+
+footer i {
+	color: black;
+	background: #EEAFB9;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.fas {
+	float: right;
+}
+
+::-webkit-input-placeholder {
+   color: black;
+
+
+
+
+
+
+
